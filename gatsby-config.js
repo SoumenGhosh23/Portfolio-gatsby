@@ -11,10 +11,10 @@ module.exports = {
     siteTitleAlt: `Soumen - Full Stack Developer`,
     siteHeadline: `Soumen - Full Stack Developer`,
     siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `Portfolio of Soumen Ghosh`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `soumen`,
   },
   plugins: [
     {
@@ -36,12 +36,12 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `/banner2.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/banner2.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
